@@ -1,0 +1,5 @@
+{
+  "name": "AI Cricket Scorer",
+  "description": "A comprehensive cricket scoring web application with AI-powered features. Users can create teams, conduct an AI-simulated toss, manage live scoring, and view match history. After each match, a detailed summary can be downloaded as a PDF.",
+  "requestFramePermissions": []
+}
